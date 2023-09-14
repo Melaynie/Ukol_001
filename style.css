@@ -1,6 +1,6 @@
-            html{
-            background-color: orange;
-        }
+html{
+background-color: orange;
+}
 
     body {
       margin: 0;
@@ -40,4 +40,4 @@
       background-color: #2c5481;
       grid-row: 10;
       grid-column: 1 / 10;
-    }
+            }
